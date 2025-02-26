@@ -7,4 +7,5 @@ title: Welcome to My Site
 
 Welcome to my personal website. Here, I share my life.
 
-![Uploading 0T5A7267.JPG…]()
+![image](https://github.com/user-attachments/assets/a61f7bcd-17cd-4ec7-8667-0568c7fdac1c)
+
