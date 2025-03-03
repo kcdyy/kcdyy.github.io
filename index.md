@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Welcome to My Site
+title: KC 高正
+theme: jekyll-theme-cayman
 ---
 
 # Hello, I'm Kc!
